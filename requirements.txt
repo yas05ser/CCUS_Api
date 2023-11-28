@@ -3,3 +3,4 @@ django-crispy-forms
 djangorestframework
 joblib
 sqlparse
+gunicorn
